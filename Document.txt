@@ -1,0 +1,7 @@
+Task:
+Create a Java program to demonstrate the use of assignment operators: =, +=, -=, *=, /=, etc. You will declare variables, modify them using assignment operators, and print the results after each modification.
+
+Implementation Instructions:
+Declare two variables (one int and one double).
+Apply assignment operators to modify the values of the variables.
+Print the results after each modification.
